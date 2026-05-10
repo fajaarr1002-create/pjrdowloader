@@ -2,7 +2,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { DownloadSection } from '../components/DownloadSection';
+import { DownloadSection } from '../DownloadSection';
 import { BACKGROUND_IMAGE } from '../constants';
 
 export default function Home() {
